@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @XKEYSCORE1
 - 👀 I’m interested in ... "matters of national security" 😏
-- 🌱 I’m currently learning ...python, javascript
+- 📚 My favorite book ... Nineteen Eighty-Four by George Orwell 
+- 🌱 I’m currently learning ... python, javascript
 - 💞️ I’m looking to collaborate on ... fun python projects
 - 📫 How to reach me ... nsa.gov/
 
